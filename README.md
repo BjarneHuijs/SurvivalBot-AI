@@ -1,7 +1,7 @@
 # SurvivalBot-AI<br>
 A behaviour tree based AI which will try to survive as long as possible
 
-This was an exam assingment where we had to build an AI that could survive an onslaught of zombies
+This was an exam assignment where we had to build an AI that could survive an onslaught of zombies
 while scavenging for food and supplies.
 
 ## Logic<br>
@@ -11,7 +11,7 @@ easy to maintain system.
 
 ## Challenges<br>
 The main challenge in this project was to create a behaviour tree exhibiting complex and intelligent
-behavour without making the tree too deep as the framework provided was unable to handle a tree that had too many levels of depth.
+behaviour without making the tree too deep as the framework provided was unable to handle a tree that had too many levels of depth.
 
 # DISCLAIMER<br>
 Parts of this project code was provided by HoWest Digital Arts and Entertainment (DAE) as they provided the framework
