@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  ConsoleOutputReducer.cpp
+  EBehaviorTree.cpp
+  Plugin.cpp
+  SteeringBehaviors.cpp
+  Survivor.cpp
+C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Exam_Assignment\2DAE01_Huijs_Bjarne_GPP-Exam2020\Source_ZombieGameAI\project\Behaviors.h(131,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Exam_Assignment\2DAE01_Huijs_Bjarne_GPP-Exam2020\Source_ZombieGameAI\project\Behaviors.h(180,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Exam_Assignment\2DAE01_Huijs_Bjarne_GPP-Exam2020\Source_ZombieGameAI\project\Behaviors.h(258,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Exam_Assignment\2DAE01_Huijs_Bjarne_GPP-Exam2020\Source_ZombieGameAI\project\Behaviors.h(290,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Exam_Assignment\2DAE01_Huijs_Bjarne_GPP-Exam2020\Source_ZombieGameAI\project\Behaviors.h(344,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Exam_Assignment\2DAE01_Huijs_Bjarne_GPP-Exam2020\Source_ZombieGameAI\project\Behaviors.h(362,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Exam_Assignment\2DAE01_Huijs_Bjarne_GPP-Exam2020\Source_ZombieGameAI\project\Behaviors.h(404,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Exam_Assignment\2DAE01_Huijs_Bjarne_GPP-Exam2020\Source_ZombieGameAI\project\Behaviors.h(420,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Exam_Assignment\2DAE01_Huijs_Bjarne_GPP-Exam2020\Source_ZombieGameAI\project\Behaviors.h(795,18): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Exam_Assignment\2DAE01_Huijs_Bjarne_GPP-Exam2020\Source_ZombieGameAI\project\Behaviors.h(684): warning C4715: '<lambda_809656ce449fbbcddb2fca08560dedc2>::operator()': not all control paths return a value
+C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Exam_Assignment\2DAE01_Huijs_Bjarne_GPP-Exam2020\Source_ZombieGameAI\project\Behaviors.h(612): warning C4715: '<lambda_ea62e1223ddee33677a29c5887d49bc0>::operator()': not all control paths return a value
+     Creating library _Temp\Release\GPP_Plugin.lib and object _Temp\Release\GPP_Plugin.exp
+  GPP_Exam.vcxproj -> C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Exam_Assignment\2DAE01_Huijs_Bjarne_GPP-Exam2020\Source_ZombieGameAI\_DEMO_RELEASE\GPP_Plugin.dll

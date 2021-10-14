@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Plugin.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="EBehaviorTree.cpp">
+      <Filter>AI\DecisionMaking\BehaviorTree</Filter>
+    </ClCompile>
+    <ClCompile Include="SteeringBehaviors.cpp">
+      <Filter>Steering</Filter>
+    </ClCompile>
+    <ClCompile Include="Survivor.cpp">
+      <Filter>AI\Survivor</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleOutputReducer.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Plugin.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="EDecisionMaking.h">
+      <Filter>AI\DecisionMaking</Filter>
+    </ClInclude>
+    <ClInclude Include="EBlackboard.h">
+      <Filter>AI\DataStruct</Filter>
+    </ClInclude>
+    <ClInclude Include="EBehaviorTree.h">
+      <Filter>AI\DecisionMaking\BehaviorTree</Filter>
+    </ClInclude>
+    <ClInclude Include="SteeringBehaviors.h">
+      <Filter>Steering</Filter>
+    </ClInclude>
+    <ClInclude Include="Survivor.h">
+      <Filter>AI\Survivor</Filter>
+    </ClInclude>
+    <ClInclude Include="Behaviors.h">
+      <Filter>AI\Survivor\Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="ConsoleOutputReducer.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="AI">
+      <UniqueIdentifier>{74b8e60d-af09-494e-8ec6-f88966cac96f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI\DataStruct">
+      <UniqueIdentifier>{2db93c9a-35cd-4834-bcac-71f90bc37e1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI\DecisionMaking">
+      <UniqueIdentifier>{362f15eb-d2c8-4d09-a9ba-f02192b91871}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI\DecisionMaking\BehaviorTree">
+      <UniqueIdentifier>{ff15f7d8-6662-4f72-b4e0-2567c62ec995}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Steering">
+      <UniqueIdentifier>{44df0650-a6f3-4583-8e3a-4eca6fda64ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI\Survivor">
+      <UniqueIdentifier>{c209997a-5327-4bbd-bf18-82e89131e0ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI\Survivor\Behaviors">
+      <UniqueIdentifier>{e66898a9-6cdf-44a1-a8d0-54d3e4b2fbe6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
